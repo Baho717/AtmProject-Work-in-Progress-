@@ -1,0 +1,5 @@
+/Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/obj/Debug/net5.0/AtmProject.csproj.AssemblyReference.cache
+/Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/obj/Debug/net5.0/AtmProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/obj/Debug/net5.0/AtmProject.AssemblyInfoInputs.cache
+/Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/obj/Debug/net5.0/AtmProject.AssemblyInfo.cs
+/Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/obj/Debug/net5.0/AtmProject.csproj.CoreCompileInputs.cache
