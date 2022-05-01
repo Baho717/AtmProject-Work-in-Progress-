@@ -1,22 +1,11 @@
 ﻿<Properties StartupConfiguration="{BCCF813B-CEBF-401B-9433-51A43F1E7BB0}|Default">
-  <MonoDevelop.Ide.ItemProperties.AtmProject FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.AtmProject PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="AtmProject/Program.cs">
     <Files>
-      <File FileName="AtmProject/Program.cs" Line="37" Column="59" />
-      <File FileName="AtmProject/UserInformation.cs" Line="9" Column="20" />
+      <File FileName="AtmProject/Program.cs" Line="59" Column="57" />
+      <File FileName="AtmProject/UserInformation.cs" />
+      <File FileName="AtmProject/Pin.cs" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="AtmProject" expanded="True">
-            <Node name="AtmProject" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

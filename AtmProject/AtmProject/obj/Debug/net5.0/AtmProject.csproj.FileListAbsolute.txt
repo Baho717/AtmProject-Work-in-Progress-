@@ -3,3 +3,13 @@
 /Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/obj/Debug/net5.0/AtmProject.AssemblyInfoInputs.cache
 /Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/obj/Debug/net5.0/AtmProject.AssemblyInfo.cs
 /Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/obj/Debug/net5.0/AtmProject.csproj.CoreCompileInputs.cache
+/Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/bin/Debug/net5.0/AtmProject.deps.json
+/Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/bin/Debug/net5.0/AtmProject.runtimeconfig.json
+/Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/bin/Debug/net5.0/AtmProject.runtimeconfig.dev.json
+/Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/bin/Debug/net5.0/AtmProject.dll
+/Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/bin/Debug/net5.0/ref/AtmProject.dll
+/Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/bin/Debug/net5.0/AtmProject.pdb
+/Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/obj/Debug/net5.0/AtmProject.dll
+/Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/obj/Debug/net5.0/ref/AtmProject.dll
+/Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/obj/Debug/net5.0/AtmProject.pdb
+/Users/benjaminaho/Documents/AtmProject/AtmProject/AtmProject/obj/Debug/net5.0/AtmProject.genruntimeconfig.cache
