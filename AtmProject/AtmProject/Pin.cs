@@ -25,8 +25,6 @@ namespace AtmProject
             {
                 return sB.ToString();
             }
-
-            void deposit (user)
         }
     }
 }
